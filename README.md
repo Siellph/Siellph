@@ -1,6 +1,8 @@
 # Привет! 👋 | Hey there! 👋
 
-Добро пожаловать на мой профиль GitHub! Меня зовут [Ваше Имя], и я увлечен разработкой программного обеспечения, изучением новых технологий и участием в интересных проектах.
+Добро пожаловать на мой профиль GitHub! Меня зовут Владислав, и я увлечен разработкой программного обеспечения, изучением новых технологий и участием в интересных проектах.
+
+Welcome to my GitHub profile! My name is Vladislav and I am passionate about software development, learning new technologies and participating in interesting projects.
 
 <!--
 ## О себе | About Me
@@ -28,8 +30,8 @@
 
 ## Статистика GitHub | GitHub Statistics
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Siellph&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default&line_height=24)
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Siellph&layout=compact&theme=default)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Siellph&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default&line_height=24)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siellph&layout=compact&theme=default)
 
 ## Связаться со мной | Contact with me
 
