@@ -14,7 +14,7 @@
 
 ## Мои навыки | My skills
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=SQLAlchemy) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=SQLAlchemy) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Pydantic](https://img.shields.io/badge/-Pydantic-000?&logo=Pydantic) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 <!--
 ## Мои проекты | My projects
