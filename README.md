@@ -14,7 +14,7 @@
 
 ## Мои навыки
 
-- Языки программирования: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
+- Языки программирования: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 - Фреймворки и библиотеки: ![Django](https://img.shields.io/badge/-Django-000?&logo=Django) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=SQLAlchemy) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 - Инструменты и платформы: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
