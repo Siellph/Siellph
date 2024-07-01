@@ -38,12 +38,35 @@ Welcome to my GitHub profile! My name is Vladislav and I am passionate about sof
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)](https://twitter.com/ваш_профиль)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:i@vgordin.ru)
 
-| Сертификаты                         |                                 |                                 |                                 |
-|-------------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| ![Vladislav Gordin_20232BE00441](certs/YaP_en1.jpg) | ![Vladislav Gordin_20232BE00441](certs/YaP_en2.jpg) | ![Гордин Владислав Дмитриевич_20232BE00441](certs/YaP_ru1.jpg) | ![Гордин Владислав Дмитриевич_20232BE00441](certs/YaP_ru2.jpg) |
-| ![Основы программирования](certs/DevBase.jpg) | ![Основы баз данных](certs/DBBase.jpg) | ![Git. Быстрый старт](certs/GIT.jpg) | ![HTML и CSS](certs/HTMLCSS1.jpg) |
-| ![HTML5 и CSS3](certs/HTMLCSS2.jpg) | ![Веб-разработка. Быстрый старт](certs/WebDev.jpg) | ![PHP. Уровень 1](certs/PHP1.jpg) | ![PHP. Уровень 2](certs/PHP2.jpg) |
-| ![JavaScript. Уровень 1](certs/JSlvl1.jpg) | ![JavaScript. Уровень 2](certs/JSlvl2.jpg) | ![Laravel. Глубокое погружение](certs/Laravel.jpg) | |
+<table>
+  <tr>
+    <th colspan="4" style="text-align:center;">Сертификаты</th>
+  </tr>
+  <tr>
+    <td><img src="certs/YaP_en1.jpg" alt="Vladislav Gordin_20232BE00441"></td>
+    <td><img src="certs/YaP_en2.jpg" alt="Vladislav Gordin_20232BE00441"></td>
+    <td><img src="certs/YaP_ru1.jpg" alt="Гордин Владислав Дмитриевич_20232BE00441"></td>
+    <td><img src="certs/YaP_ru2.jpg" alt="Гордин Владислав Дмитриевич_20232BE00441"></td>
+  </tr>
+  <tr>
+    <td><img src="certs/DevBase.jpg" alt="Основы программирования"></td>
+    <td><img src="certs/DBBase.jpg" alt="Основы баз данных"></td>
+    <td><img src="certs/GIT.jpg" alt="Git. Быстрый старт"></td>
+    <td><img src="certs/HTMLCSS1.jpg" alt="HTML и CSS"></td>
+  </tr>
+  <tr>
+    <td><img src="certs/HTMLCSS2.jpg" alt="HTML5 и CSS3"></td>
+    <td><img src="certs/WebDev.jpg" alt="Веб-разработка. Быстрый старт"></td>
+    <td><img src="certs/PHP1.jpg" alt="PHP. Уровень 1"></td>
+    <td><img src="certs/PHP2.jpg" alt="PHP. Уровень 2"></td>
+  </tr>
+  <tr>
+    <td><img src="certs/JSlvl1.jpg" alt="JavaScript. Уровень 1"></td>
+    <td><img src="certs/JSlvl2.jpg" alt="JavaScript. Уровень 2"></td>
+    <td><img src="certs/Laravel.jpg" alt="Laravel. Глубокое погружение"></td>
+    <td></td>
+  </tr>
+</table>
 
 
 Спасибо за визит! | Thank you for your visit!
