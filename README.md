@@ -40,29 +40,37 @@ Welcome to my GitHub profile! My name is Vladislav and I am passionate about sof
 
 <table>
   <tr>
-    <th colspan="4" style="text-align:center;">Сертификаты</th>
+    <th colspan="4" style="text-align:center;">Сертификаты | Certificates</th>
   </tr>
   <tr>
     <td><img src="certs/YaP_en1.jpg" alt="Vladislav Gordin_20232BE00441"></td>
     <td><img src="certs/YaP_en2.jpg" alt="Vladislav Gordin_20232BE00441"></td>
+  </tr>
+  <tr>
     <td><img src="certs/YaP_ru1.jpg" alt="Гордин Владислав Дмитриевич_20232BE00441"></td>
     <td><img src="certs/YaP_ru2.jpg" alt="Гордин Владислав Дмитриевич_20232BE00441"></td>
   </tr>
   <tr>
     <td><img src="certs/DevBase.jpg" alt="Основы программирования"></td>
     <td><img src="certs/DBBase.jpg" alt="Основы баз данных"></td>
+  </tr>
+  <tr>
     <td><img src="certs/GIT.jpg" alt="Git. Быстрый старт"></td>
     <td><img src="certs/HTMLCSS1.jpg" alt="HTML и CSS"></td>
   </tr>
   <tr>
     <td><img src="certs/HTMLCSS2.jpg" alt="HTML5 и CSS3"></td>
     <td><img src="certs/WebDev.jpg" alt="Веб-разработка. Быстрый старт"></td>
+  </tr>
+  <tr>
     <td><img src="certs/PHP1.jpg" alt="PHP. Уровень 1"></td>
     <td><img src="certs/PHP2.jpg" alt="PHP. Уровень 2"></td>
   </tr>
   <tr>
     <td><img src="certs/JSlvl1.jpg" alt="JavaScript. Уровень 1"></td>
     <td><img src="certs/JSlvl2.jpg" alt="JavaScript. Уровень 2"></td>
+  </tr>
+  <tr>
     <td><img src="certs/Laravel.jpg" alt="Laravel. Глубокое погружение"></td>
     <td></td>
   </tr>
