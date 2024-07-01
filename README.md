@@ -35,7 +35,7 @@ Welcome to my GitHub profile! My name is Vladislav and I am passionate about sof
 
 ## Связаться со мной | Contact with me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)](https://twitter.com/ваш_профиль)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)](https://t.me/GordinVD)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:i@vgordin.ru)
 
 <table>
