@@ -38,20 +38,12 @@ Welcome to my GitHub profile! My name is Vladislav and I am passionate about sof
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)](https://twitter.com/ваш_профиль)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:i@vgordin.ru)
 
-![Vladislav Gordin_20232BE00441](certs/YaP_en1.jpg)
-![Vladislav Gordin_20232BE00441](certs/YaP_en2.jpg)
-![Гордин Владислав Дмитриевич_20232BE00441](certs/YaP_ru1.jpg)
-![Гордин Владислав Дмитриевич_20232BE00441](certs/YaP_ru2.jpg)
-![Основы программирования](certs/DevBase.jpg)
-![Основы баз данных](certs/DBBase.jpg)
-![Git. Быстрый старт](certs/GIT.jpg)
-![HTML и CSS](/worksHTMLCSS1.jpg)
-![HTML5 и CSS3](/worksHTMLCSS2.jpg)
-![Веб-разработка. Быстрый старт](certs/WebDev.jpg)
-![PHP. Уровень 1](certs/PHP1.jpg)
-![PHP. Уровень 2](certs/PHP2.jpg)
-![JavaScript. Уровень 1](certs/JSlvl1.jpg)
-![JavaScript. Уровень 2](certs/JSlvl2.jpg)
-![Laravel. Глубокое погружение](certs/Laravel.jpg)
+| Сертификаты                         |                                 |                                 |                                 |
+|-------------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| ![Vladislav Gordin_20232BE00441](certs/YaP_en1.jpg) | ![Vladislav Gordin_20232BE00441](certs/YaP_en2.jpg) | ![Гордин Владислав Дмитриевич_20232BE00441](certs/YaP_ru1.jpg) | ![Гордин Владислав Дмитриевич_20232BE00441](certs/YaP_ru2.jpg) |
+| ![Основы программирования](certs/DevBase.jpg) | ![Основы баз данных](certs/DBBase.jpg) | ![Git. Быстрый старт](certs/GIT.jpg) | ![HTML и CSS](certs/HTMLCSS1.jpg) |
+| ![HTML5 и CSS3](certs/HTMLCSS2.jpg) | ![Веб-разработка. Быстрый старт](certs/WebDev.jpg) | ![PHP. Уровень 1](certs/PHP1.jpg) | ![PHP. Уровень 2](certs/PHP2.jpg) |
+| ![JavaScript. Уровень 1](certs/JSlvl1.jpg) | ![JavaScript. Уровень 2](certs/JSlvl2.jpg) | ![Laravel. Глубокое погружение](certs/Laravel.jpg) | |
+
 
 Спасибо за визит! | Thank you for your visit!
